@@ -1,3 +1,6 @@
 [submodule "Plugins/marketch"]
 	path = Plugins/marketch
 	url = git://github.com/tudou527/marketch
+[submodule "Plugins/CSSketch"]
+	path = Plugins/CSSketch
+	url = git://github.com/JohnCoates/CSSketch
