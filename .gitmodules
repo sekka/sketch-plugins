@@ -34,3 +34,6 @@
 [submodule "Plugins/sync.sketchplugin"]
 	path = Plugins/sync.sketchplugin
 	url = git://github.com/nolastan/sync.sketchplugin
+[submodule "Plugins/sketch-text-tools"]
+	path = Plugins/sketch-text-tools
+	url = git://github.com/automat/sketch-text-tools
