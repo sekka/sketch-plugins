@@ -40,6 +40,6 @@
 [submodule "Plugins/Golden-Ratio-Line-Height-Sketch-Plugin"]
 	path = Plugins/Golden-Ratio-Line-Height-Sketch-Plugin
 	url = git://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin
-[submodule "goodpatch/Prott-Sketch-Plugin"]
-	path = goodpatch/Prott-Sketch-Plugin
+[submodule "Plugins/Prott-Sketch-Plugin"]
+	path = Plugins/Prott-Sketch-Plugin
 	url = git://github.com/goodpatch/Prott-Sketch-Plugin
