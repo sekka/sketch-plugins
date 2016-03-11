@@ -7,3 +7,6 @@
 [submodule "Plugins/duplicator"]
 	path = Plugins/duplicator
 	url = git://github.com/turbobabr/duplicator
+[submodule "Plugins/sketch-palettes"]
+	path = Plugins/sketch-palettes
+	url = git://github.com/andrewfiorillo/sketch-palettes
