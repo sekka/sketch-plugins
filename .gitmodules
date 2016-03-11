@@ -22,3 +22,6 @@
 [submodule "Plugins/Fluid-for-Sketch"]
 	path = Plugins/Fluid-for-Sketch
 	url = git://github.com/matt-curtis/Fluid-for-Sketch
+[submodule "Plugins/Sketch-Constraints"]
+	path = Plugins/Sketch-Constraints
+	url = git://github.com/bouchenoiremarc/Sketch-Constraints
