@@ -19,3 +19,6 @@
 [submodule "Plugins/Sketch-Style-Inventory"]
 	path = Plugins/Sketch-Style-Inventory
 	url = git://github.com/getflourish/Sketch-Style-Inventory
+[submodule "Plugins/Fluid-for-Sketch"]
+	path = Plugins/Fluid-for-Sketch
+	url = git://github.com/matt-curtis/Fluid-for-Sketch
