@@ -4,3 +4,6 @@
 [submodule "Plugins/CSSketch"]
 	path = Plugins/CSSketch
 	url = git://github.com/JohnCoates/CSSketch
+[submodule "Plugins/duplicator"]
+	path = Plugins/duplicator
+	url = git://github.com/turbobabr/duplicator
