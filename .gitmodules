@@ -16,3 +16,6 @@
 [submodule "Plugins/Sketch-Flex-Layout"]
 	path = Plugins/Sketch-Flex-Layout
 	url = git://github.com/hrescak/Sketch-Flex-Layout
+[submodule "Plugins/Sketch-Style-Inventory"]
+	path = Plugins/Sketch-Style-Inventory
+	url = git://github.com/getflourish/Sketch-Style-Inventory
