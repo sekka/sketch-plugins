@@ -25,3 +25,6 @@
 [submodule "Plugins/Sketch-Constraints"]
 	path = Plugins/Sketch-Constraints
 	url = git://github.com/bouchenoiremarc/Sketch-Constraints
+[submodule "Plugins/sketch-origami-export"]
+	path = Plugins/sketch-origami-export
+	url = git://github.com/tarngerine/sketch-origami-export
