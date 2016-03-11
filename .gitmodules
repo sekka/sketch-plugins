@@ -31,3 +31,6 @@
 [submodule "Plugins/Typograph"]
 	path = Plugins/Typograph
 	url = git://github.com/dezonik/Typograph
+[submodule "Plugins/sync.sketchplugin"]
+	path = Plugins/sync.sketchplugin
+	url = git://github.com/nolastan/sync.sketchplugin
