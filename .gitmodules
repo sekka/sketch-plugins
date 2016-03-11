@@ -13,3 +13,6 @@
 [submodule "Plugins/sketch-measure"]
 	path = Plugins/sketch-measure
 	url = git://github.com/utom/sketch-measure
+[submodule "Plugins/Sketch-Flex-Layout"]
+	path = Plugins/Sketch-Flex-Layout
+	url = git://github.com/hrescak/Sketch-Flex-Layout
