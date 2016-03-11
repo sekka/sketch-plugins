@@ -46,3 +46,6 @@
 [submodule "Plugins/sketch-iconfont"]
 	path = Plugins/sketch-iconfont
 	url = git://github.com/keremciu/sketch-iconfont
+[submodule "Plugins/Align-text-baseline-sketch-plugin"]
+	path = Plugins/Align-text-baseline-sketch-plugin
+	url = git://github.com/soutaro/Align-text-baseline-sketch-plugin
