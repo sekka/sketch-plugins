@@ -37,3 +37,6 @@
 [submodule "Plugins/sketch-text-tools"]
 	path = Plugins/sketch-text-tools
 	url = git://github.com/automat/sketch-text-tools
+[submodule "Plugins/Golden-Ratio-Line-Height-Sketch-Plugin"]
+	path = Plugins/Golden-Ratio-Line-Height-Sketch-Plugin
+	url = git://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin
