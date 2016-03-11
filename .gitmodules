@@ -43,3 +43,6 @@
 [submodule "Plugins/Prott-Sketch-Plugin"]
 	path = Plugins/Prott-Sketch-Plugin
 	url = git://github.com/goodpatch/Prott-Sketch-Plugin
+[submodule "Plugins/sketch-iconfont"]
+	path = Plugins/sketch-iconfont
+	url = git://github.com/keremciu/sketch-iconfont
