@@ -28,3 +28,6 @@
 [submodule "Plugins/sketch-origami-export"]
 	path = Plugins/sketch-origami-export
 	url = git://github.com/tarngerine/sketch-origami-export
+[submodule "Plugins/Typograph"]
+	path = Plugins/Typograph
+	url = git://github.com/dezonik/Typograph
