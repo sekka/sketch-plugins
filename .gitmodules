@@ -52,3 +52,6 @@
 [submodule "Plugins/Content-generator-sketch-plugin"]
 	path = Plugins/Content-generator-sketch-plugin
 	url = git://github.com/timuric/Content-generator-sketch-plugin
+[submodule "Plugins/Unsplash-It-Sketch"]
+	path = Plugins/Unsplash-It-Sketch
+	url = git://github.com/fhuel/Unsplash-It-Sketch
