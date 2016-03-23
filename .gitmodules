@@ -55,3 +55,6 @@
 [submodule "Plugins/Unsplash-It-Sketch"]
 	path = Plugins/Unsplash-It-Sketch
 	url = git://github.com/fhuel/Unsplash-It-Sketch
+[submodule "Plugins/RenameIt"]
+	path = Plugins/RenameIt
+	url = git://github.com/rodi01/RenameIt
