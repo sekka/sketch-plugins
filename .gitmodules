@@ -49,3 +49,12 @@
 [submodule "Plugins/Align-text-baseline-sketch-plugin"]
 	path = Plugins/Align-text-baseline-sketch-plugin
 	url = git://github.com/soutaro/Align-text-baseline-sketch-plugin
+[submodule "Plugins/Content-generator-sketch-plugin"]
+	path = Plugins/Content-generator-sketch-plugin
+	url = git://github.com/timuric/Content-generator-sketch-plugin
+[submodule "Plugins/Unsplash-It-Sketch"]
+	path = Plugins/Unsplash-It-Sketch
+	url = git://github.com/fhuel/Unsplash-It-Sketch
+[submodule "Plugins/RenameIt"]
+	path = Plugins/RenameIt
+	url = git://github.com/rodi01/RenameIt
