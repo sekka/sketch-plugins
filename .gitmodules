@@ -58,3 +58,6 @@
 [submodule "Plugins/RenameIt"]
 	path = Plugins/RenameIt
 	url = git://github.com/rodi01/RenameIt
+[submodule "Plugins/sketch-commands"]
+	path = Plugins/sketch-commands
+	url = git://github.com/bomberstudios/sketch-commands
