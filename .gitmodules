@@ -61,3 +61,6 @@
 [submodule "com.bohemiancoding.sketch3/Plugins/sketch-commands"]
 	path = com.bohemiancoding.sketch3/Plugins/sketch-commands
 	url = git://github.com/bomberstudios/sketch-commands
+[submodule "com.bohemiancoding.sketch3/Plugins/FontFinder"]
+	path = com.bohemiancoding.sketch3/Plugins/FontFinder
+	url = https://github.com/ukn530/FontFinder
