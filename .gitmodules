@@ -64,3 +64,6 @@
 [submodule "com.bohemiancoding.sketch3/Plugins/FontFinder"]
 	path = com.bohemiancoding.sketch3/Plugins/FontFinder
 	url = https://github.com/ukn530/FontFinder
+[submodule "com.bohemiancoding.sketch3/Plugins/shared-text-styles"]
+	path = com.bohemiancoding.sketch3/Plugins/shared-text-styles
+	url = https://github.com/nilshoenson/shared-text-styles
