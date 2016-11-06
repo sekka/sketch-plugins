@@ -28,42 +28,21 @@
 [submodule "com.bohemiancoding.sketch3/Plugins/sketch-origami-export"]
 	path = com.bohemiancoding.sketch3/Plugins/sketch-origami-export
 	url = git://github.com/tarngerine/sketch-origami-export
-[submodule "com.bohemiancoding.sketch3/Plugins/Typograph"]
-	path = com.bohemiancoding.sketch3/Plugins/Typograph
-	url = git://github.com/dezonik/Typograph
-[submodule "com.bohemiancoding.sketch3/Plugins/sync.sketchplugin"]
-	path = com.bohemiancoding.sketch3/Plugins/sync.sketchplugin
-	url = git://github.com/nolastan/sync.sketchplugin
 [submodule "com.bohemiancoding.sketch3/Plugins/sketch-text-tools"]
 	path = com.bohemiancoding.sketch3/Plugins/sketch-text-tools
 	url = git://github.com/automat/sketch-text-tools
-[submodule "com.bohemiancoding.sketch3/Plugins/Golden-Ratio-Line-Height-Sketch-Plugin"]
-	path = com.bohemiancoding.sketch3/Plugins/Golden-Ratio-Line-Height-Sketch-Plugin
-	url = git://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin
 [submodule "com.bohemiancoding.sketch3/Plugins/Prott-Sketch-Plugin"]
 	path = com.bohemiancoding.sketch3/Plugins/Prott-Sketch-Plugin
 	url = git://github.com/goodpatch/Prott-Sketch-Plugin
 [submodule "com.bohemiancoding.sketch3/Plugins/sketch-iconfont"]
 	path = com.bohemiancoding.sketch3/Plugins/sketch-iconfont
 	url = git://github.com/keremciu/sketch-iconfont
-[submodule "com.bohemiancoding.sketch3/Plugins/Align-text-baseline-sketch-plugin"]
-	path = com.bohemiancoding.sketch3/Plugins/Align-text-baseline-sketch-plugin
-	url = git://github.com/soutaro/Align-text-baseline-sketch-plugin
 [submodule "com.bohemiancoding.sketch3/Plugins/Content-generator-sketch-plugin"]
 	path = com.bohemiancoding.sketch3/Plugins/Content-generator-sketch-plugin
 	url = git://github.com/timuric/Content-generator-sketch-plugin
-[submodule "com.bohemiancoding.sketch3/Plugins/Unsplash-It-Sketch"]
-	path = com.bohemiancoding.sketch3/Plugins/Unsplash-It-Sketch
-	url = git://github.com/fhuel/Unsplash-It-Sketch
 [submodule "com.bohemiancoding.sketch3/Plugins/RenameIt"]
 	path = com.bohemiancoding.sketch3/Plugins/RenameIt
 	url = git://github.com/rodi01/RenameIt
 [submodule "com.bohemiancoding.sketch3/Plugins/sketch-commands"]
 	path = com.bohemiancoding.sketch3/Plugins/sketch-commands
 	url = git://github.com/bomberstudios/sketch-commands
-[submodule "com.bohemiancoding.sketch3/Plugins/FontFinder"]
-	path = com.bohemiancoding.sketch3/Plugins/FontFinder
-	url = https://github.com/ukn530/FontFinder
-[submodule "com.bohemiancoding.sketch3/Plugins/shared-text-styles"]
-	path = com.bohemiancoding.sketch3/Plugins/shared-text-styles
-	url = https://github.com/nilshoenson/shared-text-styles
